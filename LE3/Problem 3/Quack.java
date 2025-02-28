@@ -1,0 +1,4 @@
+interface Quack
+{
+    void quack();
+}
